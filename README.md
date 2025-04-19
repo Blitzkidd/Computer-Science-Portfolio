@@ -16,4 +16,4 @@ The artifact's design, report, and code can be found [here.](https://github.com/
 
 This second artifact is an application within a terminal and utilizing C++ allows a user to craft a course planner and add in, edit, or delete details of any course within the database. This creates a useful tool for any college student within SNHU to plan out their days accordingly and keep up to date on information they will need. 
 
-The artifact's design, report, and code can be found [here.]()
+The artifact's design, report, and code can be found [here.](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-300?tab=readme-ov-file)
