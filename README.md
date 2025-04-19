@@ -10,10 +10,10 @@ You can find the code review for my CS-300, CS-330, and CS-340 projects [here](h
 
 This first artifact within my portfolio is an OpenGL source application, creating a 3D space environment of what was my old living room in 2024, being a fully 3D space that the viewer can explore and roam, taking in the tv, birdhouse, or even relaxing on the chair right below the spawn of the camera. 
 
-The artifact's design, report, and code can be found [here.] ( )
+The artifact's design, report, and code can be found [here.](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-330)
 
 ## Project 2: Algorithms and Data Structures (Course Planner)
 
 This second artifact is an application within a terminal and utilizing C++ allows a user to craft a course planner and add in, edit, or delete details of any course within the database. This creates a useful tool for any college student within SNHU to plan out their days accordingly and keep up to date on information they will need. 
 
-The artifact's design, report, and code can be found [here.] ( )
+The artifact's design, report, and code can be found [here.]()
