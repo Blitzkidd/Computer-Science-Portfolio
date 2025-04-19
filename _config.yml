@@ -2,6 +2,4 @@ title: Jayden Cooley's Portfolio
 #logo
 description: SNHU graduate with a Computer Science degree with my works over the years. 
 #show_downloads: true
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-hacker
