@@ -16,10 +16,10 @@ The artifact's design, report, and code can be found [here](https://github.com/B
 
 This second artifact is an application within a terminal and utilizing C++ allows a user to craft a course planner and add in, edit, or delete details of any course within the database. This creates a useful tool for any college student within SNHU to plan out their days accordingly and keep up to date on information they will need. 
 
-The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-300?tab=readme-ov-file).
+The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-300).
 
 ## Project 3: Databases (Animal Shelter)
 
 This third artifact is a database project remade from python and jupyter notebook to SQL and C++ to be a database for various information of animals within a shelter. This allows any shelter to have a small database to track various pets and their status like their sex, age, name, etc...
 
-The artifact's design, report, and code can be found [here]().
+The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-340).
