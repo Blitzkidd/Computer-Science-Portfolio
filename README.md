@@ -4,7 +4,7 @@
 
 Code reviews serve as an overview of a project's code and what it's progress is within the project, highlighting important details to change or update within the source code and output. Code reviews ensure consistency and compliance within the development cycle of a project and allows even higher standards to be met within a project. 
 
-You can find the code review for my CS-300, CS-330, and CS-340 projects [here] (https://www.youtube.com/watch?v=KkApOy1SuHQ).
+You can find the code review for my CS-300, CS-330, and CS-340 projects [here](https://www.youtube.com/watch?v=KkApOy1SuHQ).
 
 ## Project 1: Software Engineering and Design (My Old Living Room in Open GL)
 
