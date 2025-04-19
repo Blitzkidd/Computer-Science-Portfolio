@@ -8,6 +8,8 @@ You can find the code review for my CS-300, CS-330, and CS-340 projects [here](h
 
 ## Project 1: Software Engineering and Design (My Old Living Room in Open GL)
 
+![Screenshot 2025-04-19 185015](https://github.com/user-attachments/assets/a2802588-4cb0-446c-9960-06fbbd756afc)
+
 This first artifact within my portfolio is an OpenGL source application, creating a 3D space environment of what was my old living room in 2024, being a fully 3D space that the viewer can explore and roam, taking in the tv, birdhouse, or even relaxing on the chair right below the spawn of the camera. 
 
 The artifact's design, report, and code can be found [here.] ( )
