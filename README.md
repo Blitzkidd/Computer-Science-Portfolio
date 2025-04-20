@@ -16,24 +16,24 @@ Due to working on these categories and topics, I have gained crucial knowledge w
 
 ## Project 1: Software Engineering and Design (My Old Living Room in Open GL)
 
-This first artifact within my portfolio is an OpenGL source application, creating a 3D space environment of what was my old living room in 2024, being a fully 3D space that the viewer can explore and roam, taking in the tv, birdhouse, or even relaxing on the chair right below the spawn of the camera. 
+This first artifact within my portfolio is an OpenGL source application, creating a 3D space environment of what was my old living room in 2024, being a fully 3D space that the viewer can explore and roam, taking in the tv, birdhouse, or even relaxing on the chair right below the spawn of the camera. This artifact showcases my abilities to work with multiple tools to create desired outcomes within code alone and achieve any necessary goals or deadlines with them as well as showcasing my abilities with sources like Open GL and coding languages like C++, giving knowledgeable prowess within the project alone. 
 
 The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-330).
 
 ## Project 2: Algorithms and Data Structures (Course Planner)
 
-This second artifact is an application within a terminal and utilizing C++ allows a user to craft a course planner and add in, edit, or delete details of any course within the database. This creates a useful tool for any college student within SNHU to plan out their days accordingly and keep up to date on information they will need. 
+This second artifact is an application within a terminal and utilizing C++ allows a user to craft a course planner and add in, edit, or delete details of any course within the database. This creates a useful tool for any college student within SNHU to plan out their days accordingly and keep up to date on information they will need. This project was also created using C++, showing further prowess within the language as well as showcasing my abilities with classes within the language, stringing together various files to get an application running properly.
 
 The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-300).
 
 ## Project 3: Databases (Animal Shelter)
 
-This third artifact is a database project remade from python and jupyter notebook to SQL and C++ to be a database for various information of animals within a shelter. This allows any shelter to have a small database to track various pets and their status like their sex, age, name, etc...
+This third artifact is a database project remade from python and jupyter notebook to SQL and C++ to be a database for various information of animals within a shelter. This allows any shelter to have a small database to track various pets and their status like their sex, age, name, etc. The third artifact mainly uses SQL and a C++ file, showing my abilities to create SQL databases for any kinds of use and needs if the times arrive for them to be needed. Being able to create an editable digital database for any particular reason is a greate skill to possess as information will always be update to data and accessible. 
 
 The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-340).
 
 ## Project 4: Game Design (Metroidvania Prototype)
 
-This fourth artifact was one I wanted to include on this portfolio as it demonstrates my ability to work with a team on various projects. During this Metroidvania prototype that took around 6 weeks to develop, I was the level designer and coder, ensuring the environments and interactions all worked properly as well as created.
+This fourth artifact was one I wanted to include on this portfolio as it demonstrates my ability to work with a team on various projects. During this Metroidvania prototype that took around 6 weeks to develop, I was the level designer and coder, ensuring the environments and interactions all worked properly as well as created. This artifact showcases my prowess with blueprints, Unreal Engine 5, and my ability to work with a team, collaborating and having weaknesses and strengths be used to all of our advantage to create a product that is sure to meet the requirements and deadline of any certain goal. 
 
 The artifact's design, report, and code can be found [here](https://github.com/EHaeffner/GAM-305---UrbanFantasy).
