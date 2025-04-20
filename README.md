@@ -23,3 +23,13 @@ The artifact's design, report, and code can be found [here](https://github.com/B
 This third artifact is a database project remade from python and jupyter notebook to SQL and C++ to be a database for various information of animals within a shelter. This allows any shelter to have a small database to track various pets and their status like their sex, age, name, etc...
 
 The artifact's design, report, and code can be found [here](https://github.com/Blitzkidd/Computer-Science-Portfolio/tree/CS-340).
+
+## Project 4: Game Design (Metroidvania Prototype)
+
+This artifact was one I wanted to include on this portfolio as it demonstrates my ability to work with a team on various projects. During this Metroidvania prototype that took around 6 weeks to develop, I was the level designer and coder, ensuring the environments and interactions all worked properly as well as created.
+
+The artifact's design, report, and code can be found [here](https://github.com/EHaeffner/GAM-305---UrbanFantasy).
+
+## Professional Self-Assessment
+
+Over the course of my near 4 year career within the Computer Science program of Southern New Hampshire University, I have gotten the assistance needed to shape and concentrate on my professional and personal goals and paths. 
